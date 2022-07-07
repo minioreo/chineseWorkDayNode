@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "acm-client": "^3.1.0",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
